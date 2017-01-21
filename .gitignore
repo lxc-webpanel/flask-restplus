@@ -57,4 +57,4 @@ coverage.xml
 doc/_build/
 
 # Specifics
-flask_restplus/static/bower
+#flask_restplus/static/bower
